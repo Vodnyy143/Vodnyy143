@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C262%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,26 +60,26 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    36 hrs 14 mins      █████████████████████░░░░   85.33 % 
-TypeScript               3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    33 hrs 58 mins      █████████████████████░░░░   83.29 % 
+TypeScript               3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Firefox                  36 hrs 36 mins      ██████████████████████░░░   86.22 % 
-WebStorm                 4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-CLion                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Firefox                  34 hrs 36 mins      █████████████████████░░░░   84.87 % 
+WebStorm                 4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+CLion                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🐱‍💻 Projects: 
-englab-backend           26 hrs 35 mins      ████████████████░░░░░░░░░   62.60 % 
-tinyrenderer             6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-redis-oauth              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-FckSignups               2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Untitled                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+englab-backend           23 hrs 22 mins      ██████████████░░░░░░░░░░░   57.33 % 
+tinyrenderer             6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+redis-oauth              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+FckSignups               2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Untitled                 2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 💻 Operating System: 
-Windows                  42 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:12:06 UTC
+ Last Updated on 12/09/2026 20:50:57 UTC
 <!--END_SECTION:waka-->
 
 ---
