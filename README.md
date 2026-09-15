@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                504 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌆 Daytime                918 commits         ██████████████░░░░░░░░░░░   54.55 % 
-🌃 Evening                222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+🌞 Morning                510 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌆 Daytime                928 commits         ██████████████░░░░░░░░░░░   54.59 % 
+🌃 Evening                223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Tuesday                  333 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Wednesday                217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Thursday                 227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Friday                   461 commits         ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Monday                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Tuesday                  341 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Wednesday                221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   463 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Sunday                   62 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 
 
@@ -60,26 +60,26 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    35 hrs 42 mins      █████████████████████░░░░   83.81 % 
-TypeScript               3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-JavaScript               1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    27 hrs 34 mins      █████████████████████░░░░   82.84 % 
+TypeScript               3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+C++                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+JavaScript               30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Firefox                  36 hrs 26 mins      █████████████████████░░░░   85.52 % 
-WebStorm                 4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-CLion                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Firefox                  28 hrs 17 mins      █████████████████████░░░░   84.97 % 
+WebStorm                 3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+CLion                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🐱‍💻 Projects: 
-englab-backend           22 hrs              █████████████░░░░░░░░░░░░   51.65 % 
-tinyrenderer             6 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-you-dont-know-js-ru      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-redis-oauth              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-FckSignups               2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+englab-backend           17 hrs 20 mins      █████████████░░░░░░░░░░░░   52.10 % 
+tinyrenderer             6 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+you-dont-know-js-ru      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+redis-oauth              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+expense_tracker          1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Windows                  42 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:00:02 UTC
+ Last Updated on 15/09/2026 21:41:39 UTC
 <!--END_SECTION:waka-->
 
 ---
