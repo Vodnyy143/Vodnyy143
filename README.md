@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs%209%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,23 +60,23 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    11 hrs 36 mins      ███████████████████░░░░░░   77.66 % 
-TypeScript               2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    9 hrs 18 mins       ██████████████████░░░░░░░   72.62 % 
+TypeScript               3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-Firefox                  12 hrs 13 mins      ████████████████████░░░░░   81.81 % 
-WebStorm                 2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Firefox                  9 hrs 53 mins       ███████████████████░░░░░░   77.20 % 
+WebStorm                 2 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
 
 🐱‍💻 Projects: 
-englab-frontend          8 hrs 32 mins       ██████████████░░░░░░░░░░░   57.18 % 
-you-dont-know-js-ru      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-englab-backend           2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+englab-frontend          9 hrs 35 mins       ███████████████████░░░░░░   74.94 % 
+you-dont-know-js-ru      1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+englab-backend           1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
 
 💻 Operating System: 
-Windows                  14 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +102,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:57:06 UTC
+ Last Updated on 20/09/2026 21:02:23 UTC
 <!--END_SECTION:waka-->
 
 ---
