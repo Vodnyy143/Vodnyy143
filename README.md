@@ -60,23 +60,22 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    6 hrs 28 mins       ███████████████████░░░░░░   74.52 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Other                    4 hrs 29 mins       █████████████████░░░░░░░░   68.80 % 
+Markdown                 47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+.env file                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🔥 Editors: 
-Firefox                  7 hrs 13 mins       █████████████████████░░░░   82.99 % 
-WebStorm                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Firefox                  5 hrs 10 mins       ████████████████████░░░░░   79.24 % 
+WebStorm                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
 
 🐱‍💻 Projects: 
-englab-backend           6 hrs 19 mins       ██████████████████░░░░░░░   72.79 % 
-cup-podvodnaya-bratva    2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-englab-frontend          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+englab-backend           6 hrs 19 mins       ████████████████████████░   97.05 % 
+cup-podvodnaya-bratva    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 
 💻 Operating System: 
-Windows                  8 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +101,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2026 21:33:47 UTC
+ Last Updated on 28/09/2026 23:29:08 UTC
 <!--END_SECTION:waka-->
 
 ---
