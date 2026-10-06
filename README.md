@@ -60,24 +60,24 @@ Sunday                   59 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    5 hrs 50 mins       ███████████████████████░░   93.60 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    6 hrs 13 mins       ███████████████████████░░   93.97 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Firefox                  5 hrs 50 mins       ███████████████████████░░   93.60 % 
-WebStorm                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Firefox                  6 hrs 13 mins       ███████████████████████░░   93.97 % 
+WebStorm                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
 
 🐱‍💻 Projects: 
-englab-backend           5 hrs 54 mins       ████████████████████████░   94.56 % 
-snake                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-flac-convertor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+englab-backend           5 hrs 54 mins       ██████████████████████░░░   89.10 % 
+snake                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+flac-convertor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 21:50:22 UTC
+ Last Updated on 06/10/2026 00:17:44 UTC
 <!--END_SECTION:waka-->
 
 ---
