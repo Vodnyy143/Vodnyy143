@@ -60,24 +60,22 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    4 hrs 13 mins       ███████████████████████░░   92.21 % 
-JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    2 hrs 23 mins       ██████████████████████░░░   88.53 % 
+JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Firefox                  4 hrs 13 mins       ███████████████████████░░   92.21 % 
-WebStorm                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Firefox                  2 hrs 23 mins       ██████████████████████░░░   88.53 % 
+WebStorm                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 
 🐱‍💻 Projects: 
-englab-backend           3 hrs 21 mins       ██████████████████░░░░░░░   73.50 % 
-snake                    1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.15 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-flac-convertor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+englab-backend           1 hr 29 mins        ██████████████░░░░░░░░░░░   55.22 % 
+snake                    1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.46 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  4 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +101,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:47:22 UTC
+ Last Updated on 07/10/2026 23:18:01 UTC
 <!--END_SECTION:waka-->
 
 ---
