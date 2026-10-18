@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,23 +60,23 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    4 hrs 35 mins       ███████████████████░░░░░░   76.43 % 
-TypeScript               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Prisma                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Other                    5 hrs 36 mins       ████████████████████░░░░░   79.62 % 
+TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Prisma                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Firefox                  4 hrs 50 mins       ████████████████████░░░░░   80.71 % 
-WebStorm                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Firefox                  5 hrs 52 mins       █████████████████████░░░░   83.27 % 
+WebStorm                 1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 
 🐱‍💻 Projects: 
-snake                    3 hrs 9 mins        █████████████░░░░░░░░░░░░   52.58 % 
-void-today               1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
-graph-backend            1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+snake                    3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.78 % 
+graph-backend            2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
+void-today               1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +102,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 20:52:43 UTC
+ Last Updated on 18/10/2026 21:00:09 UTC
 <!--END_SECTION:waka-->
 
 ---
