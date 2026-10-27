@@ -60,16 +60,25 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    4 hrs 57 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 27 mins       ████████████████████████░   94.42 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Firefox                  4 hrs 57 mins       █████████████████████████   100.00 % 
+Firefox                  7 hrs 27 mins       ████████████████████████░   94.42 % 
+CLion                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🐱‍💻 Projects: 
-graph-backend            4 hrs 57 mins       █████████████████████████   100.00 % 
+graph-backend            5 hrs 31 mins       █████████████████░░░░░░░░   69.87 % 
+minijs                   2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+Untitled                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+tinyrenderer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 22:51:58 UTC
+ Last Updated on 27/10/2026 22:32:52 UTC
 <!--END_SECTION:waka-->
 
 ---
