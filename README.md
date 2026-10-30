@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,25 +60,25 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    10 hrs 44 mins      █████████████████████░░░░   85.19 % 
-C++                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-C/C                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Other                    9 hrs 48 mins       █████████████████████░░░░   84.01 % 
+C++                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+C/C                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Firefox                  10 hrs 48 mins      █████████████████████░░░░   85.72 % 
-CLion                    1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Firefox                  9 hrs 52 mins       █████████████████████░░░░   84.58 % 
+CLion                    1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 
 🐱‍💻 Projects: 
-minijs                   6 hrs 53 mins       ██████████████░░░░░░░░░░░   54.69 % 
-graph-backend            5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.71 % 
-todo-nestjs-prisma-swagge10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Untitled                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+minijs                   6 hrs 59 mins       ███████████████░░░░░░░░░░   59.82 % 
+graph-backend            4 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.37 % 
+todo-nestjs-prisma-swagge10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Untitled                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  12 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 22:57:11 UTC
+ Last Updated on 30/10/2026 22:37:14 UTC
 <!--END_SECTION:waka-->
 
 ---
